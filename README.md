@@ -4,7 +4,7 @@ American International University-Bangladesh
 
 Department of Computer Science
 
-Term Project Proposal
+Term Assignment Proposal
 
 Course: OBJECT ORIENTED PROGRAMMING 2 [D] (Summer 2019-20)
 
